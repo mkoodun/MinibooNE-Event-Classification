@@ -22,8 +22,8 @@ The full pipeline (data preprocessing, model training, evaluation, and improveme
 - Matplotlib, Seaborn
 
 ## Future Work
-- Expand training data: Use a larger stratified train-test split or the full dataset to improve pattern capture and model generalization.
+- Expand training data: Use a larger stratified train-test split or the full dataset to improve pattern capture and model generalisation.
 
-- Enhance feature selection: Test higher PCA variance thresholds (e.g., 95%) or apply L1-based regularization (LassoCV) for more interpretable dimensionality reduction.
+- Enhance feature selection: Test higher PCA variance thresholds (e.g., 95%) or apply L1-based regularisation (LassoCV) for more interpretable dimensionality reduction.
 
 - Broaden model search: Perform wider hyperparameter tuning (e.g., deeper networks, varied learning rates) and compare with alternative models such as Support Vector Classifiers.
